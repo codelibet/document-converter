@@ -5,8 +5,6 @@ The application performs common document format conversions entirely offline.
 
 ---
 
-<img width="1382" height="831" alt="01" src="https://github.com/codelibet/document-converter/blob/main/screenshots/01.png" />
-
 ## Features
 
 
@@ -30,6 +28,10 @@ All conversions are performed locally.
 ├── document_converter.py
 └── main.ui
 ```
+
+---
+
+<img width="1382" height="831" alt="01" src="https://github.com/codelibet/document-converter/blob/main/screenshots/01.png" />
 
 ---
 
