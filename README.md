@@ -21,10 +21,11 @@ All conversions are performed locally.
 
 ```
 .
-├── document_converter.py
-├── main.ui
 ├── screenshots/
-└── README.md
+├── LICENSE
+├── README.md
+├── document_converter.py
+└── main.ui
 ```
 
 ---
